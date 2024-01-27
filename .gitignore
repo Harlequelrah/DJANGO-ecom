@@ -1,0 +1,7 @@
+underworld2
+ecom/db.sqlite3
+ecom/ecom/__pycache__
+ecom/app/__pycache__
+ecom/app/migrations
+
+
