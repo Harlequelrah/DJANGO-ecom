@@ -120,9 +120,13 @@ USE_TZ = True
 STATIC_URL = 'static/'
 statique=BASE_DIR /"app/static"
 statique_app=statique/"app"
+
 STATICFILES_DIRS = [
     statique_app/"css",
     statique_app/"js",
+    statique_app/"images",
+    statique_app/"images/banner",
+    statique_app/"images/products",
 
 ]
 
